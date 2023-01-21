@@ -1,0 +1,17 @@
+TIPI DI RIECERCA CHE DEVE ESSERE IN GRADO DI ESEGUIRE:
+
+1. Ricerca attraverso il titolo
+2. Ricerca per cateogorie ->
+	Per quanto riguarda i libri,musica, Students Releases(spesso sono libri per lo studio):
+		. Ricerca in ordine di autore
+		. Ricerca in ordine di titolo        -> Il programma deve chiedere se scegliere una determinata lettera , o mostrare tutte in ordine alfabetico
+
+3. Ricercare l'autore della relese (ricerca opzionale : NON NECESSARIO)
+ 
+
+OBIETTIVO:
+
+Il programma deve partire con un tutorial (istruzioni) su come usare il motore del ricerca.
+
+Il programma deve essere in grado di fornire il codice HASH  che va inserito nel client Torrent
+In oltre il programma deve essere in grado di fornire un link del sito della relese avvertendo l'utente che non puo scaricare il file dal sito
