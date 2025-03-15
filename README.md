@@ -51,11 +51,9 @@ python main.py
 
 Di seguito sono riportati due screenshot del programma in esecuzione:
 
-![Screenshot 1](C:\Users\dimit\Projects\Personal%20Projects\TNT-Village-Search-Engine\screenshot\screenshot1.jpg)  
-*Homepage*
+![Screenshot 1](screenshot/screenshot1.jpg)
 
-![Screenshot 2](C:\Users\dimit\Projects\Personal%20Projects\TNT-Village-Search-Engine\screenshot\screenshot2.jpg)  
-*Search by name option*
+![Screenshot 2](screenshot/screenshot2.jpg)
 
 ## Note
 
@@ -66,5 +64,3 @@ Di seguito sono riportati due screenshot del programma in esecuzione:
 
 Il progetto è stato sviluppato da **Georgi Dimitrov**.  
 Per ulteriori informazioni, visita il repository su GitHub: [TNT-Village-Search-Engine](https://github.com/GeoDimi99/TNT-Village-Search-Engine).
-
-# 
